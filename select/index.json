@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "FRESH",
+  "base_artist": "ICHILLIN'",
+  "createdAt": "2025-12-28T04:54:58.143407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fresh",
+      "artist": "Klovner I Kamp",
+      "has_synced": true,
+      "path": "select/01_Fresh_Klovner_I_Kamp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Funky Fresh Dressed",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/02_Funky_Fresh_Dressed_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Funky Fresh Dressed feat. Ms. Jade",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/03_Funky_Fresh_Dressed_feat._Ms._Jade_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Virgo (feat. Nas and Dough E. Fresh)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/04_Virgo_(feat._Nas_and_Dough_E._Fresh)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Young, Fresh 'N'' New",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/05_Young,_Fresh_'N''_New_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fresh",
+      "artist": "YBN Almighty Jay",
+      "has_synced": true,
+      "path": "select/06_Fresh_YBN_Almighty_Jay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fresh",
+      "artist": "Yung Mal feat. Gucci Mane",
+      "has_synced": false,
+      "path": "select/07_Fresh_Yung_Mal_feat._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fresh (feat. Gucci Mane)",
+      "artist": "Yung Mal",
+      "has_synced": false,
+      "path": "select/08_Fresh_(feat._Gucci_Mane)_Yung_Mal.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bring It Back (feat. Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/09_Bring_It_Back_(feat._Mannie_Fresh)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne feat. B.G. & Mannie Fresh",
+      "has_synced": true,
+      "path": "select/10_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne_feat._B.G._&_Mannie_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/11_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fresh & Clean",
+      "artist": "Letherette",
+      "has_synced": false,
+      "path": "select/12_Fresh_&_Clean_Letherette.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hoes (feat. Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/13_Hoes_(feat._Mannie_Fresh)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Is The Carter (feat. Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/14_This_Is_The_Carter_(feat._Mannie_Fresh)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Funky Fresh Dressed (feat. Ms. Jade)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/15_Funky_Fresh_Dressed_(feat._Ms._Jade)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So Fresh, So Clean",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/16_So_Fresh,_So_Clean_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "So Fresh, So Clean (Jonathan Davis Remix)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/17_So_Fresh,_So_Clean_(Jonathan_Davis_Remix)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm Fresh",
+      "artist": "Thaiboy Digital",
+      "has_synced": true,
+      "path": "select/18_I'm_Fresh_Thaiboy_Digital.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Fresh",
+      "artist": "ThaiBoy Digital",
+      "has_synced": false,
+      "path": "select/19_I'm_Fresh_ThaiBoy_Digital.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FRESH",
+      "artist": "ICHILLIN'",
+      "has_synced": false,
+      "path": "select/pl_01_FRESH_ICHILLIN'.txt"
+    }
+  ]
+}
