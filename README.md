@@ -1,0 +1,92 @@
+# ICHILLIN' – FRESH
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You watching
+걱정은 bad 따분한 건 so bad
+(What? Huh Ha)
+Yeah 제 멋대로 Step it up
+내 시선을 따라가
+Hey listening
+상관없어 We don't care about it
+Oh ei 지금부터
+Run and run run and run and
+move it out (Huh)
+누가 뭐래도 당당하게 Ei ei
+기준따윈 다 바꿀거야
+너 정말 모르니
+질투만 나지 괜히
+심장이 두근대고 있잖아
+Make it over
+You just wanna make it over
+Don't you just wanna
+make it over
+Let's get it
+Feel so FRESH
+YES ME 때가 왔지
+Go fresh 나를 원해?
+느낌가는 대로 신나게 놀아봐
+YES ME 빛이 나지
+날 따라 높이높이 올라가
+Have you ever
+seen anything like this?
+Oh eh o eh o
+Feel so fresh
+Oh eh o eh o
+Feel so fresh
+틀에 박힌 듯 물어보겠지
+Oh my got what's that 쟨 대체?
+WE CHILLIN'
+It's amazing
+우린 절대 재밌는 건
+놓치지 않아 Hey
+I feel so fresh up feel so
+fresh up feel so good
+차원이 다를 거야
+지금부터 쭉 Huh
+누가 뭐래도 당당하게
+기준따윈 다 바꿀거야
+너 정말 모르니
+질투만 나지 괜히
+심장이 두근대고 있잖아
+Make it over you just wanna
+make it over
+Don't you just wanna
+make it over
+Let's get it
+Feel so FRESH
+YES ME 때가 왔지
+Go fresh 나를 원해?
+느낌가는 대로 신나게 놀아봐
+YES ME 빛이 나지
+날 따라 높이높이 올라가
+Have you ever
+seen anything like this?
+멋지게 보여줄게
+You just get out of my way
+때론 과감하게 세상을 놀래줄거야
+막아설 수는 없어
+내 지금 모습 그대로 다
+I Keep it Real
+Feel so fresh
+Feel so fresh
+Feel so fresh
+(Ey hey Ey hey / FEEL So FRESH)
+You Just get out of my way
+YES ME 때가 왔지
+Go fresh 나를 원해?
+느낌가는 대로 신나게 놀아봐
+YES ME 빛이 나지
+날 따라 높이높이 올라가
+Have you ever
+seen anything like this?
+Oh eh o eh o
+Feel so fresh
+Oh eh o eh o
+Ah
+Oh eh o eh o
+Feel so fresh
+Oh eh o eh o
+Feel so fresh
+```
